@@ -3,7 +3,7 @@ import PremButton from "@/components/premium-button";
 function App() {
     return (
         <>
-            <div className="min-w-screen min-h-screen bg-linear-to-b from-violet-800 to-neutral-900">
+            <div className="min-w-screen min-h-screen bg-linear-to-b from-violet-800 to-neutral-900 ">
                 <nav className="flex items-center justify-around mx-auto py-4">
                     <h1 className="text-neutral-50 font-bold text-2xl">
                         quizmaker-ai
